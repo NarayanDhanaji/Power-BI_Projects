@@ -78,7 +78,7 @@ using SQL, Excel, and Power BI.
  
  - Power BI Analysis : [Power BI_Dashboard](https://github.com/NarayanDhanaji/Power-BI_Projects/blob/main/HR%20Analytics/Dashboard.png) 
  
- - Project Report : [HR Analytics – Employee Attrition Analysis]()
+ - Project Report : [HR Analytics – Employee Attrition Analysis](https://github.com/NarayanDhanaji/Power-BI_Projects/blob/main/HR%20Analytics/Project%20Report.pdf)
    
 
 ## Conclusion
