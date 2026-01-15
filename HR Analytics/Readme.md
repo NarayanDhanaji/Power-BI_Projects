@@ -72,7 +72,7 @@ using SQL, Excel, and Power BI.
 
 # Files in This Repository
 
- - HR Employee  : [Dataset Link]() 
+ - HR Employee  : [Dataset Link](https://github.com/NarayanDhanaji/Power-BI_Projects/blob/main/HR%20Analytics/HR%20Employee.xlsx) 
  
  - SQL Anaysis    : [Sql_Queries]()
  
